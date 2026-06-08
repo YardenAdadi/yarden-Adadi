@@ -17,6 +17,7 @@
     <div class="contact">
         Phone: 0534297512 | Email: yardenadady07@gmail.com | Address: Hod HaSharon, Israel
     </div>
+    
 
     <h2>Professional Summary</h2>
     <p>Motivated and curious Information Systems and Business Administration student with hands-on experience in technical instruction across both military and healthcare environments. Familiar with a range of medical and organizational systems, including AS/400, Qflow, Salesforce, and SAP CRM. Fast learner, and a team player with a passion for technology and problem-solving. Currently seeking opportunities to gain practical experience in system implementation, IT support, or junior development roles.</p>
