@@ -1,5 +1,6 @@
 # YARDEN ADADY
-**Phone:** 0534297512 | **Email:** yardenadady07@gmail.com | **Address:** Hod HaSharon, Israel
+**Phone:** 0534297512 | **Email:** yardenadady07@gmail.com  
+**Address:** Hod HaSharon, Israel
 
 ---
 
@@ -36,13 +37,8 @@ Motivated and curious Information Systems and Business Administration student wi
 ---
 
 ## TECHNICAL SKILLS
-* **Programming Languages:** Python, Java, HTML, CSS, JavaScript.
-* **Databases & Analytics:** SQL, Tableau, Power BI, Advanced Excel.
-* **Enterprise Systems:** Salesforce, SAP CRM, AS/400, Qflow.
-* **Tools:** Jira, Git.
-
----
-
-## LANGUAGES
-* Hebrew – Native
-* English
+```text
+Programming Languages: Python, Java, HTML, CSS, JavaScript.
+Databases & Analytics:   SQL, Tableau, Power BI, Advanced Excel.
+Enterprise Systems:      Salesforce, SAP CRM, AS/400, Qflow.
+Tools:                   Jira, Git.
