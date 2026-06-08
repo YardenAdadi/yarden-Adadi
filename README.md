@@ -1,64 +1,64 @@
-<div style="background-color: #f4f7f6; padding: 20px; border-radius: 10px; border-left: 5px solid #2c3e50;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body { font-family: 'Helvetica', sans-serif; line-height: 1.4; color: #333; max-width: 800px; margin: 40px auto; padding: 20px; border: 1px solid #ccc; }
+        h1 { font-size: 28px; margin-bottom: 5px; }
+        .contact { font-size: 14px; margin-bottom: 20px; border-bottom: 1px solid #333; padding-bottom: 10px; }
+        h2 { font-size: 16px; text-transform: uppercase; border-bottom: 1px solid #333; margin-top: 20px; }
+        .section { margin-bottom: 15px; }
+        .job-header { font-weight: bold; margin-top: 10px; }
+        ul { padding-left: 20px; }
+    </style>
+</head>
+<body>
 
-# Yarden Adady
-### Information Systems & Business Administration Professional
+    <h1>YARDEN ADADY</h1>
+    <div class="contact">
+        Phone: 0534297512 | Email: yardenadady07@gmail.com | Address: Hod HaSharon, Israel
+    </div>
 
-**Strategic Technical Consultant | Data Analyst | IT Infrastructure Specialist**
+    <h2>Professional Summary</h2>
+    <p>Motivated and curious Information Systems and Business Administration student with hands-on experience in technical instruction across both military and healthcare environments. Familiar with a range of medical and organizational systems, including AS/400, Qflow, Salesforce, and SAP CRM. Fast learner, and a team player with a passion for technology and problem-solving. Currently seeking opportunities to gain practical experience in system implementation, IT support, or junior development roles.</p>
 
-</div>
+    <h2>Experience</h2>
+    <div class="section">
+        <div class="job-header">External Consultant – Ministry of Defense | 2020 – 2022</div>
+        <ul><li>Professional consultancy role; specific project details remain classified.</li></ul>
+        
+        <div class="job-header">IT Systems Instructor – Ness Technologies | 2019 – 2022</div>
+        <ul>
+            <li>Conducted training as part of a project for Leumit Health Services.</li>
+            <li>Worked with internal medical and organizational systems (AS/400, Qflow, Salesforce, SAP CRM).</li>
+            <li>Trained medical staff in clinics across the country.</li>
+            <li>Developed training materials and user guides.</li>
+        </ul>
 
----
+        <div class="job-header">Camillion Instructor – Hillel Yaffe Medical Center – John Bryce | 2019</div>
+        <ul>
+            <li>Provided frontal and individual training to medical teams.</li>
+            <li>Developed training materials for different users, improved existing processes to enhance user experience.</li>
+        </ul>
 
-## 🚀 Executive Summary
-Results-oriented professional with a robust background in technical training and complex systems management. Expertise in optimizing enterprise-grade environments, including **AS/400, Qflow, Salesforce, and SAP CRM**. Adept at translating complex technical workflows into actionable business insights. Committed to professional excellence and rigorous standards.
+        <div class="job-header">Galaxy System Instructor – Israeli Air Force | 2017 – 2019</div>
+        <ul>
+            <li>Instructed on the Galaxy system for operational HQ officers.</li>
+            <li>Planned and delivered training content, including lesson plans and exercises.</li>
+            <li>Developed and maintained training materials.</li>
+        </ul>
+    </div>
 
----
+    <h2>Education</h2>
+    <p><strong>B.A. Student in Information Systems and Business Administration</strong> – Peres Academic Center | 2024 – Present | GPA: 95 OUT OF 100</p>
 
-## 💼 Professional Experience
+    <h2>Technical Skills</h2>
+    <p><strong>Programming Languages:</strong> Python, Java, HTML, CSS, JavaScript.<br>
+    <strong>Databases & Analytics:</strong> SQL, Tableau, Power BI, Advanced Excel.<br>
+    <strong>Enterprise Systems:</strong> Salesforce, SAP CRM, AS/400, Qflow.<br>
+    <strong>Tools:</strong> Jira, Git.</p>
 
-**External Consultant, Ministry of Defense** | 2020 – 2022
-* Engaged in high-level consultancy regarding sensitive organizational infrastructure; specific project scopes remain classified under security protocols.
+    <h2>Languages</h2>
+    <p>Hebrew – Native | English</p>
 
-**IT Systems Instructor, Ness Technologies** | 2019 – 2022
-* Spearheaded technical training for Leumit Health Services.
-* Administered training on core systems (AS/400, Qflow, Salesforce, SAP CRM) for diverse personnel.
-* Authored comprehensive technical documentation to optimize operational efficiency.
-
-**Camillion Instructor, Hillel Yaffe Medical Center** | 2019
-* Delivered specialized technical instruction and facilitated process improvements.
-
-**Galaxy System Instructor, Israeli Air Force** | 2017 – 2019
-* Orchestrated technical training curricula and executed complex simulations for high-ranking officers.
-
----
-
-## 🛠 Technical Competencies
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Development</strong><br>
-      • Python, Java<br>
-      • HTML5, CSS3, JavaScript<br>
-      • Firebase
-    </td>
-    <td width="50%" valign="top">
-      <strong>Data & Systems</strong><br>
-      • SQL, Tableau, Power BI<br>
-      • Salesforce, SAP CRM<br>
-      • AS/400, Qflow
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎓 Education
-**B.A. in Information Systems and Business Administration** | 2024 – Present
-* Peres Academic Center | Cumulative GPA: 95/100
-
----
-
-<div style="background-color: #eaf2f8; padding: 15px; border-radius: 5px;">
-  <strong>Contact Information:</strong> &nbsp; 📧 yardenadady07@gmail.com &nbsp;|&nbsp; 📱 +972-53-429-7512 &nbsp;|&nbsp; 📍 Hod HaSharon, Israel
-</div>
+</body>
+</html>
